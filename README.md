@@ -2,7 +2,7 @@
 
 client mod list
 
-i want to break this down:
+i want to break this down into mods that >
 
 ```
 fps-bugfix-stability (things that better the core game)

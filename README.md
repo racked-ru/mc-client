@@ -2,6 +2,12 @@
 
 client mod list
 
+- ================    OPTIMIZATION    ================
+- ==============    API DEPENDENCIES    ==============
+- ==================    IMMERSION    =================
+- =====================    RPG    ====================
+- ================   MISCELLANEIOUS    ===============
+
 ```
 roadmap:
 chest / inventory sorting

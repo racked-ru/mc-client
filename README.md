@@ -7,9 +7,9 @@ client mod list
 
 fps-bugfix-stability mods:
 
-mod : borderless-mining-1.1.8
-desc : ```makes fullscreen not act up weird and just makes it work nicer```
-link : https://modrinth.com/mod/borderless-mining/versions?g=1.20.1
+> mod : borderless-mining-1.1.8
+> desc : ```makes fullscreen not act up weird and just makes it work nicer```
+> link : https://modrinth.com/mod/borderless-mining/versions?g=1.20.1
 
 cit-resewn-1.1.5
 adds optifine compatibility stuff

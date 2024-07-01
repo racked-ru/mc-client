@@ -4,12 +4,13 @@ client mod list
 
 i want to break this down:
 
+```
 fps-bugfix-stability (things that better the core game)
 apis-dependancys (things mods depend on to work)
 immersion (things that make the game feel more alive)
 rpg (things that make the advanture feel more rewarding or gameifying)
 etc (etc)
-
+```
 
 
 # fps-bugfix-stability mods:

@@ -1,12 +1,12 @@
 # mc-client
 
-client mod list
+about:
 
-- ================    OPTIMIZATION    ================
-- ==============    API DEPENDENCIES    ==============
-- ==================    IMMERSION    =================
-- =====================    RPG    ====================
-- ================   MISCELLANEIOUS    ===============
+OPTIMIZATION
+API DEPENDENCIES
+IMMERSION
+RPG
+MISCELLANEIOUS
 
 ```
 roadmap:
